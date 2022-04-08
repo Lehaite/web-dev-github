@@ -1,2 +1,2 @@
-First commit example! And now i modify this
+First commit example! NOW CONFLICT
 Second commit Now!
