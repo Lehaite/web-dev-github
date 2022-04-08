@@ -1,2 +1,2 @@
-First commit example!
+First commit example! NOW CONFLICT
 Second commit Now!
