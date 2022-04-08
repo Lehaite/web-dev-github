@@ -1,2 +1,4 @@
 First commit example! NOW CONFLICT
 Second commit Now!
+Hi man
+Hi man
